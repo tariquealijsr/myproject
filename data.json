@@ -1,0 +1,14 @@
+{
+ "student": [
+    {
+       "id": "1",
+       "name": "Abkbar",
+       "image": "/images/ALI1.Jpeg"
+},
+{ 
+        "id": "2",
+        "name": "Sameer",
+        "images": ""/images/dummy.Jpeg"
+}
+]
+}
